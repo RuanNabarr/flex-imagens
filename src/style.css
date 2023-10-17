@@ -1,0 +1,28 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+h2 {
+    margin-top: -110px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+p {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: 300;
+    font-size: 17px;
+}
